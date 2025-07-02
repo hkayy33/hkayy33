@@ -1,6 +1,8 @@
-## Hi there👋, I am Hassan
+## 
 
-About Me:
+<h1>Hi there👋, I am Hassan</h1>
+
+<h2>About Me:</h2>
 - Creative 
 - Sporty
 
