@@ -2,7 +2,7 @@
 
 <h1>Hi there👋, I am Hassan</h1>
 
-<img src = "https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/11/12/19/48-Where's-Wally-WALKER-BOOKS.jpg?width=1200&height=800&crop=1200:800" style = "width = 100px; height = 80px;">
+<img src = "https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/11/12/19/48-Where's-Wally-WALKER-BOOKS.jpg?width=1200&height=800&crop=1200:800" style = "width = 10px; height = 80px;">
 
 <h2>About Me:</h2>
 - Creative 
