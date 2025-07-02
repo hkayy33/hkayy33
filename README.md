@@ -2,6 +2,10 @@
 
 <h1>Hi there👋, I am Hassan</h1>
 
+<<<<<<< HEAD
+=======
+<img src = "https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/11/12/19/48-Where's-Wally-WALKER-BOOKS.jpg?width=1200&height=800&crop=1200:800" style = "width = 10px; height = 80px;">
+>>>>>>> 095f056066b41bb669eccdbe881bca041ccadf6c
 
 <h2>About Me:</h2>
 - Creative 
