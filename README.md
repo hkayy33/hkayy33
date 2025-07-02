@@ -12,12 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-<<<<<<< HEAD
-- ⚡ Fun fact: The fun is a fact
 
-
-
-=======
-- ⚡ Fun fact: ...
--->
->>>>>>> parent of d032d54 (added a linkedin link)
+<a href = "www.google.com"> Linkedin<a>
