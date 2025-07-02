@@ -2,6 +2,8 @@
 
 <h1>Hi there👋, I am Hassan</h1>
 
+<img src = "https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/11/12/19/48-Where's-Wally-WALKER-BOOKS.jpg?width=1200&height=800&crop=1200:800" >
+
 <h2>About Me:</h2>
 - Creative 
 - Sporty
@@ -16,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-<a href = "www.google.com"> Linkedin<a>
+<a href = "> Linkedin<a>
